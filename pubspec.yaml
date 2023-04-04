@@ -36,6 +36,7 @@ dependencies:
   url_launcher: 6.1.10
   permission_handler: 10.2.0 # 权限
   fluttertoast: 8.2.1
+  cupertino_icons: ^1.0.5
 
 dev_dependencies:
   flutter_test:
